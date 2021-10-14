@@ -1,0 +1,17 @@
+body {
+    margin-top: 50px;
+    background-color: #eee;
+  }
+  h1, h3 {
+    color: #007FFF;
+  }
+  hr {
+    border: 2px solid #007FFF;
+  }
+  h2, li {
+    color: coral;
+  }
+  .profile {
+    width: 150px;
+    margin-bottom: 10px;
+  }
